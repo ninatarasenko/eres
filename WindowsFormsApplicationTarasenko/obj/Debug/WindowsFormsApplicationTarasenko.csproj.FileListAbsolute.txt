@@ -1,0 +1,13 @@
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\bin\Debug\WindowsFormsApplicationTarasenko.exe.config
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\bin\Debug\Database4.accdb
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\bin\Debug\WindowsFormsApplicationTarasenko.exe
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\bin\Debug\WindowsFormsApplicationTarasenko.pdb
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.Form1.resources
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.Properties.Resources.resources
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.csproj.GenerateResource.Cache
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.exe
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.pdb
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.AddForm.resources
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.SearchForm.resources
+D:\Учеба\Курсовая 28.02.2022\WindowsFormsApplicationTarasenko\WindowsFormsApplicationTarasenko\obj\Debug\WindowsFormsApplicationTarasenko.Formzagr.resources
